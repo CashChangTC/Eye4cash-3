@@ -1,0 +1,6 @@
+model_checkpoint_path: "/data3/Avery_Jupyter/log/model_9000.ckpt-9000"
+all_model_checkpoint_paths: "/data3/Avery_Jupyter/log/model_5000.ckpt-5000"
+all_model_checkpoint_paths: "/data3/Avery_Jupyter/log/model_6000.ckpt-6000"
+all_model_checkpoint_paths: "/data3/Avery_Jupyter/log/model_7000.ckpt-7000"
+all_model_checkpoint_paths: "/data3/Avery_Jupyter/log/model_8000.ckpt-8000"
+all_model_checkpoint_paths: "/data3/Avery_Jupyter/log/model_9000.ckpt-9000"
