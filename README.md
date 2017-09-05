@@ -48,7 +48,7 @@ The following img is the training lose of this final model by using the training
 
 Just run the prediction.py you can use this final model to do the prediction.
 
-```shell
+```
 python prediction.py -p folder_to_prediction
 ```
 
